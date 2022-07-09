@@ -25,11 +25,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
-<h1 align="center">🎉 42 SEOUL</h1>
-<p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5dx4vd7001109mnga2j5sje/stats?cursusId=21&coalitionId=85" alt="sunhwang's 42 stats" /></a>
-</p>
-
 <h1 align="center">🌈 Most Used Languages</h1>
 <p align="center">
   <a href="https://github.com/get6">
@@ -42,6 +37,11 @@
   <a href="https://github.com/get6">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=get6&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
+</p>
+
+<h1 align="center">🎉 42 SEOUL</h1>
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5dx4vd7001109mnga2j5sje/stats?cursusId=21&coalitionId=85" alt="sunhwang's 42 stats" /></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
