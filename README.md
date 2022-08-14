@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!%20🌏&fontSize=90)
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fget6&count_bg=%2387CEFA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fget6&count_bg=%2387CEFA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
 </p>
 
 <h1 align="center">🥞 Tech stack</h1>
@@ -41,7 +43,9 @@
 
 <h1 align="center">🎉 42 SEOUL</h1>
 <p align="center">
-[![sunhwang's 42 stats](https://badge42.vercel.app/api/v2/cl5dx4vd7001109mnga2j5sje/stats?cursusId=21&coalitionId=85)(https://github.com/JaeSeoKim/badge42)
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/cl5dx4vd7001109mnga2j5sje/stats?cursusId=21&coalitionId=85" alt="sunhwang's 42 stats" />
+  </a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
