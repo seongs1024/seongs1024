@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!%20🌏&fontSize=90)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87CEFA&width=435&lines=What+we+think%2C+we+become.;Stay+hungry%2C+Stay+foolish." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=87CEFA&width=435&lines=What+we+think%2C+we+become.;Stay+hungry%2C+Stay+foolish." alt="Typing SVG" />
 </p>
 
 <p align="center">
